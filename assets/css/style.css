@@ -552,6 +552,9 @@ section {
   .about .image img {
     max-width: 100%;
   }
+  .content h3, .content p {
+    padding-left: 25px;
+  }
 }
 
 /*--------------------------------------------------------------
